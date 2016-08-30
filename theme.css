@@ -1,0 +1,10 @@
+body {
+	font-family: "Futura", sans-serif;
+	color: #404040;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
